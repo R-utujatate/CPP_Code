@@ -17,6 +17,10 @@ class myComplex
     void sub(myComplex, myComplex);
     //function to multiply complex numbers
     void mult(myComplex, myComplex);
-    //function to conjugate complex numberrs
-    void conjugate(myComplex, myComplex);
+    //function to conjugate complex numbers
+    void conjugate(myComplex,myComplex);
+    //function to find magitude of complex numbers
+    void magnitude(myComplex,myComplex);
+    //funtion to divide complex numbers
+    void div(myComplex,myComplex);
 };
